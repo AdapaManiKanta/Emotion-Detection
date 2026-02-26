@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 .vscode/
 fer2013/
-models/*.hdf5
-models/*.caffemodel
+# models/*.hdf5
+# models/*.caffemodel
 models/*.log
